@@ -1,0 +1,41 @@
+body {
+	font-family: arial;
+	}
+a {
+	font-size: 22px;
+	font-weight: bold;
+	}
+a:hover {
+	color: green;
+	}
+.Yuda {
+	display: fixed;
+}
+.Budi {
+	display: fixed;
+}
+#hover {
+	cursor: pointer;
+	}
+#hover2 {
+	cursor: pointer;
+	}
+#hover22 {
+	cursor: pointer;
+	}
+#hover3 {
+	cursor: pointer;
+	}
+#hoverhilang {
+	cursor: pointer;
+	}
+.Walk1 {
+	display: none;
+	}
+.Gun {
+	display: none;
+	}
+.Logo img{
+	display: block;
+	margin-right: auto;
+}
